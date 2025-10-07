@@ -12,6 +12,8 @@ and if your partner also swipes yes on the same movie it takes it to a combined 
  
 * have buttons that take you to a personalised watchlist aswell as to your combined watchlist
 
+View Figma at `https://www.figma.com/design/4xp7nEanhh7RuT1W9hqCfq/Finder-Template?node-id=0-1&t=bXjUQWb82nx8DTgS-1`
+
 
 
 
