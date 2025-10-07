@@ -16,11 +16,22 @@ and if your partner also swipes yes on the same movie it takes it to a combined 
 
 
 ## The Road Map
+* figure out how to use figma to create a template that im happy to use for the web app
+* Create the tinder like system that'll use a movie api to choose random movies 
+* Get the api and set it up
+* add in a loading state 
+* Create the refining tools Catagories/date range 
+* add button to take you to watchlist
+* figure out how to make accounts work. Possibly with databases?
+* add button to take you to shared watchlist 
+* CSS it all along the way
 
+This may and most likely will be expanded upon the more I think about or remeber things I need to do! 
 
 #### **Stretch**
 * Have a pop up like tinder when a match is made for a more in your face representation 
 * A play button that takes you to a website to view the movie (Not sure on the legalities behind this)
+* add a why not feature, letting the user have a reason for not wanting to watch a certain film
 
 # Boilerplate: React with Express and Vite
 
